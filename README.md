@@ -227,6 +227,7 @@ For any queries or support, please open an issue on GitHub.
 
 ---
 
-**Note**: This is a template README. Please update the configuration details, endpoints, and project-specific information according to your actual implementation.Project is based on Microservices Architecture.
+**Note**: This is a template README. Please update the configuration details, endpoints, and project-specific information according to your actual implementation.Project is based on Microservices Architecture
+
 
 
